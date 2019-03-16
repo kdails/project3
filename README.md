@@ -23,10 +23,10 @@
 - Now, open another tab and go to: http://localhost:5000/ - you'll get a hompage greeting and a count of movies! (Nothing yet in your database, don't worry... let's add some movies!!!
 <h3> Flask Path #2 </h3>
 <h4> Now alter the URL to write "http://localhost:5000/movie/new/title/director/genre/rating" </h4>
-    - you're going to input a title of a film where "title" is.
-    - you're going to input a director of the film where "director" is.
-    - you're going to input a genre for the film where "genre" is.
-    - you're going to input your own rating of the film (of type string) where "rating" is.
+    - you're going to input a title of a film where "title" is.<br>
+    - you're going to input a director of the film where "director" is.<br>
+    - you're going to input a genre for the film where "genre" is.<br>
+    - you're going to input your own rating of the film (of type string) where "rating" is.<br>
 - You should do this more than once so the next paths show more and pull more data from the items you added to your database!
 <h3> Flask Path #3 </h3>
 - Now if you alter the URL to write http://localhost:5000/all_movies you'll see all the films you inputted in the last step! If you added none of them, It will tell you that too. 
