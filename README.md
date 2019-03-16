@@ -32,5 +32,5 @@
 - Now if you alter the URL to write http://localhost:5000/all_movies you'll see all the films you inputted in the last step! If you added no movies yet, a message will let you know that.
 
 <h3> Flask Path #4 </h3>
-- Now if you alter the URL to write http://localhost:5000/all_directors you'lll see all the film directors and their movie count! If you haven't added anything yet, it will let you know! 
+- Now if you alter the URL to write http://localhost:5000/all_directors you'll see all the film directors and their movie count! If you haven't added anything yet, it will let you know! 
 
