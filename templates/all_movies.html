@@ -1,0 +1,19 @@
+<style>
+html {
+    background-color: #d5f4e6;
+}
+
+</style>
+
+<ul>
+{% for sg in all_movies %}
+<li>{{ sg[0] }} by {{ sg[1] }} - {{ sg[2] }}</li><br>
+{% endfor %}
+</ul>
+
+{% if not all_movies %}
+There are no saved favorite movies to show. Try adding one!
+{% endif %}
+
+
+<a href="{{ url_for('index')}}">Return to home page</a>
