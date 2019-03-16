@@ -1,4 +1,4 @@
-# projectt3
+# project3
 
 <h1>Hello. Thanks for reading !</h1>
 
