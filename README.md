@@ -4,9 +4,9 @@
 
 <h2>This project for SI507 requires that you have python 3.7, a python framework called Flask that provides opportunity to interact with our python code in browser. In order for this project to work properly, please refer to the required list of dependencies in requirements.txt and pip-install all dependencies to a virtual environment within the project folder for this application to run.</h2>
 
-<h4>The csv file you'll need is provided with in this repository as well as all other code. There are two different types of files in this program, the SI507_project3.py code where a SQL database is created with SQLAlchemy, and 3 tables are additionally created for Movies, Directors and Ratings. </h3>
+<h4> There are two different types of files in this program, the SI507_project3.py code where a SQL database is created with SQLAlchemy, here 3 tables are created for Movies, Directors and Ratings. There are also templates in the templates folder.</h3>
 
-<h4>The Flask application is additionally defined within the Project 3 code. The Flask app puts information into the database that is created. a database will be created within the project folder when the project_3 code is run locally on your computer via the terminal and browser. </h3>
+<h4>The Flask application is additionally defined within the Project 3 code. The Flask app puts information into the database that is created. a database will be created within the project folder when the project_3 code is run locally on your computer via the terminal and browser. This is where templates come into play, they are defining what you see in your browser window with a bit of styling too.</h3>
 
 <p>Additionally in this file, you're going to see a database sketch that was required for this assignment. You can see that I created the database based off my drawing from projejct 2, but altered the information so that it wasn't extreneous and is just enough to get the job done. You can see that there are three tables for the data - MOVIES, RATINGS, as well as DIRECTORS. <p>
 
